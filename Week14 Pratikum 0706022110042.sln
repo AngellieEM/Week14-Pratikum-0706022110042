@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week14 Pratikum 0706022110042", "Week14 Pratikum 0706022110042\Week14 Pratikum 0706022110042.csproj", "{63244E81-23CF-4D1B-8E6B-6C18A05F3C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63244E81-23CF-4D1B-8E6B-6C18A05F3C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63244E81-23CF-4D1B-8E6B-6C18A05F3C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63244E81-23CF-4D1B-8E6B-6C18A05F3C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63244E81-23CF-4D1B-8E6B-6C18A05F3C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872E8F23-4926-4536-BBB5-0CC893003C25}
+	EndGlobalSection
+EndGlobal
